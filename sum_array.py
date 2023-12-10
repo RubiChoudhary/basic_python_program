@@ -4,3 +4,5 @@ add = 0
 for i in my_list:
     add = add+i
     print("sum of number in my_list: ",add)
+# output:- 
+# sum of number in my_list: 15
